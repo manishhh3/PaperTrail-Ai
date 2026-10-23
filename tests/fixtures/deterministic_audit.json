@@ -1,0 +1,10 @@
+{
+  "notice": "Synthetic test fixture, not a published research paper. NLI labels are supplied by a deterministic test stub and are not real model predictions.",
+  "page_text": "We achieve 95% accuracy on the benchmark. We report 95% accuracy for the proposed method on the benchmark. We report a 20% error reduction on the benchmark. Measurements show a 5% error reduction on the benchmark. We show a 30% latency improvement in deployment. The latency improvement was measured in deployment. We show a 20% robustness improvement across all tasks. The evaluation discusses a robustness improvement across all tasks.",
+  "expected_statuses": {
+    "accuracy": "SUPPORTED",
+    "error reduction": "CONTRADICTED",
+    "latency improvement": "INSUFFICIENT_EVIDENCE",
+    "robustness improvement": "HUMAN_REVIEW_REQUIRED"
+  }
+}
